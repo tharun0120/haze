@@ -1,0 +1,7 @@
+let mod = fn(a, b) {
+        return a % b;
+};
+
+let result = mod(24, 60);
+
+print(result);
